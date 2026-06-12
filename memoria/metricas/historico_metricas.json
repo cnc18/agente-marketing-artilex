@@ -1,0 +1,6 @@
+{
+  "_comentario": "Archivo acumulativo: cada campaña agrega sus métricas. Nunca se borra ni se reemplaza.",
+  "version": "1.0",
+  "total_campanas": 0,
+  "campanas": []
+}

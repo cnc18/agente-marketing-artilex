@@ -1,0 +1,16 @@
+# Dependencias de los scripts de tools/
+
+# Llamadas HTTP al CRM y a APIs externas (imágenes, redes)
+httpx
+
+# Leer las claves y la configuración del .env
+python-dotenv
+
+# Leer el Excel financiero (datos/financiero.xlsx)
+openpyxl
+
+# Adaptar formatos de imagen para cada red (recortar/redimensionar)
+pillow
+
+# Output bonito en la terminal (tablas, colores, paneles)
+rich

@@ -1,0 +1,20 @@
+# Datos privados que subes tú
+datos/
+
+# Claves y secretos
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Archivo histórico de campañas (no se versiona)
+memoria/campanas/
+
+# Imágenes generadas en tools/
+*.jpg
+*.png
+*.jpeg
